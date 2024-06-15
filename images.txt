@@ -1,2 +1,2 @@
-xhofe/alist:latest
-xiaoyaliu/alist:latest
+xhofe/alist
+xiaoyaliu/alist
